@@ -3,4 +3,7 @@ p {
     font-size: 20px;
     text-align: center;
 }
-
+.hidden-links {
+	text-decoration: none;
+	color: #536482;
+}
